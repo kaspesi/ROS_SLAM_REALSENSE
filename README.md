@@ -7,6 +7,7 @@ Implementation of Simultanous Locilization and Mapping in ROS for Autonomous Veh
 * ROS Melodic
 * Ubuntu 18.04 (Jeston Image)
 * Catkin
+* Eigen3
 
 ### Hardware Requirements 
 * IntelRealsense Depth camera
@@ -31,6 +32,10 @@ $ rosdep update
 $ sudo apt-get install ros-lunar-catkin
 $ sudo apt-get install python-catkin-tools
 ```
+### Other dependencies
+```
+sudo apt install libeigen3-dev
+```
 ### Building Project
 ```
 $ cd /.../Repo_Directory
@@ -38,14 +43,12 @@ $ catkin_make
 $ . ~/catkin_ws/devel/setup.bash
 $ catkin build 
 ```
-
 ### Running SLAM
 For visualization RVIZ can be used
 ```
 sh startCamera.sh
 sh startSlam.sh
 ```
-
 ### Published Topics
 
 #### SLAM ROS node
@@ -81,3 +84,16 @@ sh startSlam.sh
 * /image_left_camera_info
 
 
+### License
+```
+@article{murORB2,
+  title={{ORB-SLAM2}: an Open-Source {SLAM} System for Monocular, Stereo and {RGB-D} Cameras},
+  author={Mur-Artal, Ra\'ul and Tard\'os, Juan D.},
+  journal={IEEE Transactions on Robotics},
+  volume={33},
+  number={5},
+  pages={1255--1262},
+  doi = {10.1109/TRO.2017.2705103},
+  year={2017}
+ }
+ ```
