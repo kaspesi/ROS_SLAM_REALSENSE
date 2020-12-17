@@ -1,0 +1,5 @@
+kindr_ros/kindr_rviz_plugins
+/home/chuah/catkin_ws/devel/.private/kindr_rviz_plugins/lib/libkindr_rviz_plugins.so /home/chuah/catkin_ws/devel/lib/libkindr_rviz_plugins.so
+/home/chuah/catkin_ws/devel/.private/kindr_rviz_plugins/lib/pkgconfig/kindr_rviz_plugins.pc /home/chuah/catkin_ws/devel/lib/pkgconfig/kindr_rviz_plugins.pc
+/home/chuah/catkin_ws/devel/.private/kindr_rviz_plugins/share/kindr_rviz_plugins/cmake/kindr_rviz_pluginsConfig-version.cmake /home/chuah/catkin_ws/devel/share/kindr_rviz_plugins/cmake/kindr_rviz_pluginsConfig-version.cmake
+/home/chuah/catkin_ws/devel/.private/kindr_rviz_plugins/share/kindr_rviz_plugins/cmake/kindr_rviz_pluginsConfig.cmake /home/chuah/catkin_ws/devel/share/kindr_rviz_plugins/cmake/kindr_rviz_pluginsConfig.cmake

@@ -1,0 +1,4 @@
+realsense-ros/realsense2_description
+/home/chuah/catkin_ws/devel/.private/realsense2_description/lib/pkgconfig/realsense2_description.pc /home/chuah/catkin_ws/devel/lib/pkgconfig/realsense2_description.pc
+/home/chuah/catkin_ws/devel/.private/realsense2_description/share/realsense2_description/cmake/realsense2_descriptionConfig.cmake /home/chuah/catkin_ws/devel/share/realsense2_description/cmake/realsense2_descriptionConfig.cmake
+/home/chuah/catkin_ws/devel/.private/realsense2_description/share/realsense2_description/cmake/realsense2_descriptionConfig-version.cmake /home/chuah/catkin_ws/devel/share/realsense2_description/cmake/realsense2_descriptionConfig-version.cmake

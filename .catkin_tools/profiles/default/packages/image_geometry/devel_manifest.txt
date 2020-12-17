@@ -1,0 +1,6 @@
+vision_opencv/image_geometry
+/home/chuah/catkin_ws/devel/.private/image_geometry/lib/libimage_geometry.so /home/chuah/catkin_ws/devel/lib/libimage_geometry.so
+/home/chuah/catkin_ws/devel/.private/image_geometry/lib/pkgconfig/image_geometry.pc /home/chuah/catkin_ws/devel/lib/pkgconfig/image_geometry.pc
+/home/chuah/catkin_ws/devel/.private/image_geometry/lib/python2.7/dist-packages/image_geometry/__init__.py /home/chuah/catkin_ws/devel/lib/python2.7/dist-packages/image_geometry/__init__.py
+/home/chuah/catkin_ws/devel/.private/image_geometry/share/image_geometry/cmake/image_geometryConfig.cmake /home/chuah/catkin_ws/devel/share/image_geometry/cmake/image_geometryConfig.cmake
+/home/chuah/catkin_ws/devel/.private/image_geometry/share/image_geometry/cmake/image_geometryConfig-version.cmake /home/chuah/catkin_ws/devel/share/image_geometry/cmake/image_geometryConfig-version.cmake

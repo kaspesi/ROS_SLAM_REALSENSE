@@ -1,0 +1,6 @@
+ros_best_practices/ros_package_template
+/home/chuah/catkin_ws/devel/.private/ros_package_template/lib/libros_package_template_core.so /home/chuah/catkin_ws/devel/lib/libros_package_template_core.so
+/home/chuah/catkin_ws/devel/.private/ros_package_template/lib/ros_package_template/ros_package_template /home/chuah/catkin_ws/devel/lib/ros_package_template/ros_package_template
+/home/chuah/catkin_ws/devel/.private/ros_package_template/lib/pkgconfig/ros_package_template.pc /home/chuah/catkin_ws/devel/lib/pkgconfig/ros_package_template.pc
+/home/chuah/catkin_ws/devel/.private/ros_package_template/share/ros_package_template/cmake/ros_package_templateConfig-version.cmake /home/chuah/catkin_ws/devel/share/ros_package_template/cmake/ros_package_templateConfig-version.cmake
+/home/chuah/catkin_ws/devel/.private/ros_package_template/share/ros_package_template/cmake/ros_package_templateConfig.cmake /home/chuah/catkin_ws/devel/share/ros_package_template/cmake/ros_package_templateConfig.cmake

@@ -1,0 +1,4 @@
+kindr_ros/kindr_ros
+/home/chuah/catkin_ws/devel/.private/kindr_ros/lib/pkgconfig/kindr_ros.pc /home/chuah/catkin_ws/devel/lib/pkgconfig/kindr_ros.pc
+/home/chuah/catkin_ws/devel/.private/kindr_ros/share/kindr_ros/cmake/kindr_rosConfig-version.cmake /home/chuah/catkin_ws/devel/share/kindr_ros/cmake/kindr_rosConfig-version.cmake
+/home/chuah/catkin_ws/devel/.private/kindr_ros/share/kindr_ros/cmake/kindr_rosConfig.cmake /home/chuah/catkin_ws/devel/share/kindr_ros/cmake/kindr_rosConfig.cmake
